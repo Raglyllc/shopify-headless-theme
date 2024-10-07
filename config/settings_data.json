@@ -1,0 +1,19 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "current": {
+    "storefront_hostname": "tylerstx.myshopify.com",
+    "custom_redirects": "Shopify path > Storefront path\n/account/login > /login\n/account/register > /register\n/account/reset > /reset-password\n/account/activate > /activate-account",
+    "multipass_login": true,
+    "content_for_index": [
+
+    ]
+  }
+}
