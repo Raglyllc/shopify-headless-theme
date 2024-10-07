@@ -10,7 +10,7 @@
 {
   "current": {
     "storefront_hostname": "tylerstx.myshopify.com",
-    "custom_redirects": "Shopify path > Storefront path\n/account/login > /login\n/account/register > /register\n/account/reset > /reset-password\n/account/activate > /activate-account",
+    "custom_redirects": "",
     "multipass_login": true,
     "content_for_index": [
 
